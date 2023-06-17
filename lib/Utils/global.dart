@@ -1,2 +1,2 @@
-const defaultURL = "http://192.168.1.205:5000";
+const defaultURL = "http://127.0.0.1:5000";
 var apiURL = "";

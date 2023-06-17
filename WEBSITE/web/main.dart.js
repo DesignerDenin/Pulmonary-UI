@@ -80851,7 +80851,7 @@ A.ahI.prototype={
 $0(){$.XH().nP()},
 $S:0}
 A.Kr.prototype={
-K(a){$.Xu="http://192.168.1.205:5000"
+K(a){$.Xu="http://127.0.0.1:5000"
 return new A.yG(A.ai(["/",new A.a6m()],t.N,t.Ab),"/",A.awE(null,"Satoshi",B.cx,null),null)}}
 A.a6m.prototype={
 $1(a){return B.Cn},
@@ -80924,7 +80924,7 @@ am(){return new A.Ud(A.aww(null),B.k)}}
 A.Ud.prototype={
 aF(){this.aV()
 var s=$.Xu
-if(s.length===0)s=$.Xu="http://192.168.1.205:5000"
+if(s.length===0)s=$.Xu="http://127.0.0.1:5000"
 this.d.shu(0,s)},
 K(a){var s=null,r=A.lV(16),q=t.E
 return A.dy(s,A.o6(A.b([A.tL(A.b([B.OA,A.aqM(A.f6("Reset",s,s,s,s,s,s),new A.akN(this),s)],q),B.r0,B.bw),A.d8(s,16,s),A.awy(this.d,B.cx,A.aq5(s,s,s,B.BS,s,s,s,s,!0,new A.hg(B.ep,new A.c0(B.J,1,B.ae,-1)),s,s,s,s,B.eC,!0,s,s,s,B.cx,s,s,s,s,s,s,s,s,s,s,s,s,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.xe),B.fE,A.dy(s,A.apS(B.xg,new A.akO(this,a),A.a1o(s,s,B.ex,s,s,s,s,s,s,s,s,s,s,s,new A.cx(A.lV(12),B.t),s,s,s,s)),B.p,s,s,s,s,64,s,s,s,s,1/0),B.fE],q),B.cq,B.ca),B.p,s,s,new A.dc(B.i,s,s,r,s,s,B.au),s,s,s,new A.aH(32,32,32,32),s,s,500)}}
@@ -80933,7 +80933,7 @@ $0(){var s=this.a
 return s.an(new A.akM(s))},
 $S:0}
 A.akM.prototype={
-$0(){this.a.d.shu(0,"http://192.168.1.205:5000")},
+$0(){this.a.d.shu(0,"http://127.0.0.1:5000")},
 $S:0}
 A.akO.prototype={
 $0(){var s=this.a
