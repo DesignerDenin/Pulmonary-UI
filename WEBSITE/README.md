@@ -4,3 +4,5 @@
 3. Run `python -m http.server`
    
 > P.S. Make sure API is set up locally before performing actions
+
+If there seems to be issues with API connectivity, check if the Address given in the `...` button beside the Upload Audio button has any of the addresses mentioned in the API `python app.py` runtime logs
